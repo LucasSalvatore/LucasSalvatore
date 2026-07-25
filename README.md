@@ -7,7 +7,7 @@ This is a space where I upload my latest projects, team collaborations, and the 
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-**Tools & Tech
+### Tools & Tech
 
 * **Frontend:** React, TypeScript, Tailwind CSS, HTML/CSS
 * **Backend:** Node.js, Python, PostgreSQL, REST APIs
@@ -15,6 +15,8 @@ ________________________________________________________________________________
 * **Design & Management:** Figma, Git, GitHub Actions, Agile Workflows, Slack, Flare
 
 _________________________________________________________________________________________________________________________________________________________________________________
+
+### A Bit About Me
 
 * 🐕 Proud dog owner 
 * 📈 Balancing code with a concentration in Finance
